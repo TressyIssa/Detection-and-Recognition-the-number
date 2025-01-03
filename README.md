@@ -1,4 +1,5 @@
 # Projet de Reconnaissance de Chiffres Manuscrits avec CNN et TensorFlow
+![intro2](https://github.com/user-attachments/assets/1bfb269c-e9c8-4d50-bb2a-9f0361357abd)
 
 ## Description du Projet
 
