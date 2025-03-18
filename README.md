@@ -1,7 +1,7 @@
 # Projet de Reconnaissance de Chiffres Manuscrits avec CNN et TensorFlow
 ![intro2](https://github.com/user-attachments/assets/1bfb269c-e9c8-4d50-bb2a-9f0361357abd)
 
-## Description du Projet
+## Description du Projet.
 
 Ce projet vise à construire un modèle de réseau de neurones convolutif (CNN) pour la reconnaissance de chiffres manuscrits à partir du dataset MNIST (Modified National Institute of Standards and Technology). Le modèle, implémenté avec TensorFlow, est conçu pour classer des images de chiffres allant de 0 à 9. Ce projet montre l'application des CNN dans le domaine de la vision par ordinateur et est idéal pour explorer les bases de l'apprentissage profond pour la classification d'images.
 
